@@ -81,4 +81,4 @@ function greetUser(name) {
 
 - [x] Task 1 completed
 - [x] Task 2 completed
-- [] Task 3 in progress
+- [ ] Task 3 in progress
